@@ -18,11 +18,15 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-000?logo=express)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=WEBPACK) -->
+<br />
+### Follow me:
 
+[![Telegram](https://img.shields.io/badge/-Telegram-7BB2D7)](https://t.me/Takeyourenergy)
+[![Vk](https://img.shields.io/badge/-Vkontakte-5751C8)](https://vk.com/takeyourenergy)
 
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?TakeYourEnergy=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ### Connect with me: -->
