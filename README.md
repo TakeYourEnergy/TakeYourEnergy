@@ -35,7 +35,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakeYourEnergy&hide=contribs,prs&theme=cobalt)
 
+<br />
 
+![](https://www.codewars.com/users/TakeYourEnergy/badges/large)
 
 
 <!-- ### Connect with me: -->
