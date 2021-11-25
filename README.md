@@ -22,6 +22,9 @@
 
 <br />
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?TakeYourEnergy=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- ### Connect with me: -->
 
 <!-- BLOG-POST-LIST:END -->
