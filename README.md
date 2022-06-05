@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Alexander
 
 
-## I'm a beginner FrontEnd Developer
+## I'm a beginner Front-End Developer
 - 💪 I like to write code
 - 🎉 I love to play badminton
 - 🥅 I am constantly learning new things
