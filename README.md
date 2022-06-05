@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Alexander
 
 
-## I'm a FrontEnd Developer
+## I'm a beginner FrontEnd Developer
 - 💪 I like to write code
 - 🎉 I love to play badminton
 - 🥅 I am constantly learning new things
@@ -14,10 +14,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
-<!-- ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-000?logo=express)
-![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=WEBPACK) -->
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=WEBPACK)
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-000?logo=express) -->
 <br />
 
 ### Follow me:
@@ -33,7 +33,7 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakeYourEnergy&hide=contribs,prs&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakeYourEnergy&count_private=true&hide=contribs,prs&theme=cobalt)
 
 <br />
 
