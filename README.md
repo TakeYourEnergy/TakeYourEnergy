@@ -10,14 +10,17 @@
 
 ### Languages and Tools:
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=WEBPACK)
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-000?logo=express) -->
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=red">
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue">
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow">
+<img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=React&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=Git&logoColor=#F05032">
+<img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=TypeScript&logoColor=#3178C6">
+<img src="https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=Webpack&logoColor=#8DD6F9">
+
+
+
+
 <br />
 
 ### Follow me:
