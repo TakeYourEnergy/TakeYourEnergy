@@ -10,13 +10,7 @@
 
 ### Languages and Tools:
 
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=red">
-<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue">
-<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow">
-<img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=React&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=Git&logoColor=#F05032">
-<img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=TypeScript&logoColor=#3178C6">
-<img src="https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=Webpack&logoColor=#8DD6F9">
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=red"> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"> <img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=React&logoColor=61DAFB"> <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=Git&logoColor=#F05032"> <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=TypeScript&logoColor=#3178C6"> <img src="https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=Webpack&logoColor=#8DD6F9">
 
 
 
