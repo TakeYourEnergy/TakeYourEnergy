@@ -6,6 +6,8 @@
 - 🎉 I love to play badminton
 - 🥅 I am constantly learning new things
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
 <br />
 
 ### Languages and Tools:
