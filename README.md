@@ -6,7 +6,7 @@
 - 🎉 I love to play badminton
 - 🥅 I am constantly learning new things
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=TakeYourEnergy&color=blueviolet)
 
 <br />
 
