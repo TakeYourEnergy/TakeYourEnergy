@@ -5,11 +5,13 @@
 <h4 align="left">I'm beginner Front-end developer</h4>
 
 - :fire: &nbsp;I develop for all platforms using **Typescript**
-- :speech_balloon: &nbsp;Learning to write code 
+- :speech_balloon: &nbsp;Learning to write code
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/Takeyourenergy)** and **[Vk](https://vk.com/takeyourenergy)**
 
->  General
- 
+<h2 align="left">Tech stack</h2>
+
+> General
+
 <table width='100%'>
   <tr>
     <td align="center" width="96">
@@ -39,8 +41,8 @@
   </tr> 
 </table>
 
->  Frontend
- 
+> Frontend
+
 <table width='100%'>
   <tr>
     <td align="center" width="96">
@@ -94,8 +96,8 @@
   </tr> 
 </table>
 
->  Backend
- 
+> Backend
+
 <table width='100%'>
   <tr>
     <td align="center" width="96"> 
@@ -105,7 +107,7 @@
   </tr> 
 </table>
 
->  Code quality
+> Code quality
 
 <table width='100%'>
   <tr>
@@ -124,10 +126,8 @@
   </tr> 
 </table>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakeYourEnergy&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakeYourEnergy&hide=stars&countprs&theme=cobalt)
 ![](https://www.codewars.com/users/TakeYourEnergy/badges/large)
-
 
 <!-- ### Connect with me: -->
 
