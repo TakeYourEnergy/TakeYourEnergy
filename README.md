@@ -1,14 +1,12 @@
-### Hi there 👋 I'm Alexander
+<img src='./src/image/my.png' width='100%'>
 
+<h1 align="left">:wave: Hello there! I'm Alexander Shvetsov</h1>
 
 ## I'm a beginner Front-End Developer
 - 💪 I like to write code
 - 🎉 I love to play badminton
 - 🥅 I am constantly learning new things
 
-![](https://komarev.com/ghpvc/?username=TakeYourEnergy&color=blueviolet)
-
-<br />
 
 ### Languages and Tools:
 
@@ -21,21 +19,11 @@
 
 ### Follow me:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-7BB2D7)](https://t.me/Takeyourenergy)
-[![Vk](https://img.shields.io/badge/-Vkontakte-5751C8)](https://vk.com/takeyourenergy)
-
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakeYourEnergy&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Telegram](https://img.shields.io/badge/-Telegram-7BB2D7)](https://t.me/Takeyourenergy) [![Vk](https://img.shields.io/badge/-Vkontakte-5751C8)](https://vk.com/takeyourenergy)
 
 
-<br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakeYourEnergy&count_private=true&hide=contribs,prs&theme=cobalt)
-
-<br />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakeYourEnergy&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakeYourEnergy&hide=stars&countprs&theme=cobalt)
 ![](https://www.codewars.com/users/TakeYourEnergy/badges/large)
 
 
