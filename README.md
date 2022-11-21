@@ -129,6 +129,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakeYourEnergy&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakeYourEnergy&hide=stars&countprs&theme=cobalt)
 
 ![](https://www.codewars.com/users/TakeYourEnergy/badges/large)
+<div></div>
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=takeyourenergy&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!-- ### Connect with me: -->
