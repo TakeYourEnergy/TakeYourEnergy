@@ -1,5 +1,3 @@
-<img src='./src/image/my.png' width='100%'>
-
 <h1 align="left">:wave: Привет всем! Я Швецов Александр</h1>
 
 <h4 align="left">Я 1С-программист</h4>
