@@ -8,7 +8,7 @@
 
 
 :moyai: *Несколько слов обо мне:*
- В 2023 г. [прошел](https://github.com/TakeYourEnergy/1C-programmer/blob/main/certificate/certificate.pdf) по программе ["1C-программист"](https://netology.ru/programs/developer1c#/) в Нетологии. Освоил современные подходы и технологии 1C-разработки, изучил язык запросов, получил понимание приницпов управленческого и бухгалтерского учета, изучил СКД.
+ В 2023 г. [прошел](https://github.com/TakeYourEnergy/1C-programmer/blob/main/certificate/Диплом%20Швецов.png) по программе ["1C-программист"](https://netology.ru/programs/developer1c#/) в Нетологии. Освоил современные подходы и технологии 1C-разработки, изучил язык запросов, получил понимание приницпов управленческого и бухгалтерского учета, изучил СКД.
  <br>Мой проект "Управление IT-компанией" можно посмотреть [по ссылке](https://github.com/TakeYourEnergy/1C-programmer)
 
 :dart: *К чему стремлюсь:* 
